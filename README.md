@@ -43,14 +43,6 @@ This will generate:
 - Two plots saved as `.png` files
 - A CSV file with all simulation data
 
-## Author
+## Note
 
-Ivan Gonzalez-Cabrera  
-University of Konstanz  
-Email: idgonzalezc@gmail.com
-
-## Citation
-
-If you use this code or data, please cite:
-
-Gonzalez-Cabrera, I. (2025). *Justificatory filtering sensitivity analysis: Simulation code and data*. Zenodo. https://doi.org/10.5281/zenodo.15644040
+This supplementary material accompanies a manuscript currently under review. For anonymization purposes, citation information and author details have been omitted. A public version including repository details and DOI will be provided upon publication.
